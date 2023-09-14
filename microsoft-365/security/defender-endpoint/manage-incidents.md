@@ -18,6 +18,7 @@ ms.collection:
 - tier2
 ms.topic: conceptual
 ms.subservice: mde
+ms.date: 12/18/2020
 ---
 
 # Manage Microsoft Defender for Endpoint incidents
@@ -78,3 +79,4 @@ Added comments instantly appear on the pane.
 - [Incidents queue](/microsoft-365/security/defender-endpoint/view-incidents-queue)
 - [View and organize the Incidents queue](view-incidents-queue.md)
 - [Investigate incidents](investigate-incidents.md)
+[!INCLUDE [Microsoft Defender for Endpoint Tech Community](../../includes/defender-mde-techcommunity.md)]

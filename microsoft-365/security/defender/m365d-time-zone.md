@@ -22,6 +22,7 @@ ms.topic: conceptual
 search.appverid: 
   - MOE150
   - MET150
+ms.date: 02/17/2021
 ---
 
 # Set the time zone for Microsoft 365 Defender
@@ -40,7 +41,8 @@ Microsoft 365 Defender can display date and time information using either your l
 - Advanced hunting results
 - Identity timeline
 
-To set the time zone for these features, go to **Settings** > **Microsoft 365 Defender** > **Time zone**.
+To set the time zone for these features, go to **Settings** > **Security center** > **Time zone**
 
 > [!NOTE]
 > The custom time range filter in advanced hunting remains in UTC regardless of the time zone setting. 
+[!INCLUDE [Microsoft 365 Defender rebranding](../../includes/defender-m3d-techcommunity.md)]

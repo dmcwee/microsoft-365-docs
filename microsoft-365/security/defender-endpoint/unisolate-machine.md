@@ -14,11 +14,13 @@ manager: dansimp
 audience: ITPro
 ms.collection: 
 - m365-security
-- tier2
-ms.topic: conceptual
+- tier3
+- must-keep
+ms.topic: reference
 ms.subservice: mde
 ms.custom: api
 search.appverid: met150
+ms.date: 12/18/2020
 ---
 
 # Release device from isolation API
@@ -114,3 +116,4 @@ POST https://api.securitycenter.microsoft.com/api/machines/1e5bc9d7e413ddd7902c2
 ```
 
 To isolate a device, see [Isolate device](isolate-machine.md).
+[!INCLUDE [Microsoft Defender for Endpoint Tech Community](../../includes/defender-mde-techcommunity.md)]

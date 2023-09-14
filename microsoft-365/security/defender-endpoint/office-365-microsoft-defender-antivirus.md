@@ -21,6 +21,7 @@ ms.collection:
 - m365-security
 - tier2
 search.appverid: met150
+ms.date: 04/08/2021
 ---
 
 # Better together: Microsoft Defender Antivirus and Office 365
@@ -106,3 +107,4 @@ Protection from ransomware is one great reason to put your files in OneDrive. An
 - [Microsoft Defender for Endpoint](microsoft-defender-endpoint.md)
 
 
+[!INCLUDE [Microsoft Defender for Endpoint Tech Community](../../includes/defender-mde-techcommunity.md)]

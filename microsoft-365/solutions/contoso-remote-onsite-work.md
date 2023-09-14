@@ -1,10 +1,11 @@
 ---
 title: "Contoso's COVID-19 response and support for hybrid work"
-author: dansimp
+author: brendacarter
 f1.keywords:
 - NOCSH
-ms.author: dansimp
+ms.author: bcarter
 manager: dansimp
+ms.date: 11/19/2020
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions

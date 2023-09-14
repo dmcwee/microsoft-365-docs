@@ -3,8 +3,9 @@ title: "Overview of Basic Mobility and Security for Microsoft 365"
 f1.keywords:
 - NOCSH
 ms.author: kwekua
-author: kwekua
+author: kwekuako
 manager: scotv
+ms.date: 08/31/2020
 audience: Admin
 ms.topic: article
 ms.service: microsoft-365-business
@@ -27,9 +28,15 @@ description: "Manage and secure mobile devices connected to your Microsoft 365 o
 
 # Overview of Basic Mobility and Security for Microsoft 365
 
+Check out all of our small business content on [Small business help & learning](https://go.microsoft.com/fwlink/?linkid=2224585).
+
 You can manage and secure mobile devices when they're connected to your Microsoft 365 organization by using Basic Mobility and Security. Mobile devices like smartphones and tablets that are used to access work email, calendar, contacts, and documents play a significant part in making sure that employees get their work done anytime, from anywhere. So it’s critical that you help protect your organization's information when people use devices. You can use Basic Mobility and Security to set device security policies and access rules, and to wipe mobile devices if they’re lost or stolen.
 
 :::image type="content" source="../../media/basic-mobility-security/bms-3-setup.png" alt-text="Basic Mobility and Security Setup.":::
+
+## Privacy and security in Basic Mobility and Security
+
+Microsoft Intune sends information to Microsoft 365 about the compliance status of each managed device, and then you can generate reports that show whether managed devices in your organization are compliant based upon the policies that were set. To learn more about Microsoft's commitment to the privacy and security, see the [Microsoft Trust Center](https://www.microsoft.com/trust-center).
 
 ## What types of devices can you manage?
 
@@ -47,7 +54,7 @@ Here's a summary of the steps:
 
 **Step 2:** Set up Basic Mobility and Security by, for example, creating an APNs certificate to manage iOS devices and adding a Domain Name System (DNS) record for your domain.
 
-**Step 3:** Create device policies and apply them to groups of users. When you do this, your users get an enrollment message on their device, and when they've completed enrollment, their devices are restricted by the policies you've set up for them. For more info, see [Enroll your mobile device using Basic Mobility and Security](enroll-your-mobile-device.md). 
+**Step 3:** Create device policies and apply them to groups of users. When you do this, your users get an enrollment message on their device, and when they've completed enrollment, their devices are restricted by the policies you've set up for them. For more info, see [Enroll your mobile device using Basic Mobility and Security](enroll-your-mobile-device.md).
 
 :::image type="content" source="../../media/basic-mobility-security/basic-mobility-microsoft-purview.png" alt-text="Basic Security and Mobility policy settings.":::
 

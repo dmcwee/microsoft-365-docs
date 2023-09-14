@@ -2,9 +2,10 @@
 title: "Step 2. Provide remote access to on-premises apps and services"
 f1.keywords:
 - NOCSH
-author: dansimp
-ms.author: dansimp
+author: brendacarter
+ms.author: bcarter
 manager: dansimp
+ms.date: 05/01/2020
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions

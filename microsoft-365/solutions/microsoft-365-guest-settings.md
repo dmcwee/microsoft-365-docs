@@ -3,11 +3,13 @@ title: "Microsoft 365 guest sharing settings reference"
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: serdars
+ms.date: 03/10/2020
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
 ms.collection: 
 - highpri
+- Tier1
 - SPO_Content
 - M365-collaboration
 - m365solution-3tiersprotection
@@ -242,7 +244,7 @@ If the site has a sensitivity label applied, that label may control the external
 
 You can set defaults for link type and permissions, and expiration settings for *Anyone* links for each site. When set at the site level, these settings override the organization-level settings. Note that if *Anyone* links are disabled at the organization level, *Anyone* will not be an available link type at the site level.
 
-**Navigation:** SharePoint admin center > <a href="https://go.microsoft.com/fwlink/?linkid=2185220" target="_blank">**Active sites**</a> > select the site > **Policies** tab > **Edit External sharing**
+**Navigation:** SharePoint admin center > <a href="https://go.microsoft.com/fwlink/?linkid=2185220" target="_blank">**Active sites**</a> > select the site > **Settings** > **Edit External sharing**.
 
 ![Screenshot of SharePoint site-level link sharing settings.](../media/sharepoint-site-link-sharing-settings.png)
 
